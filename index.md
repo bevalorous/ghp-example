@@ -1,7 +1,7 @@
-# Part 1
-## Chapter 1
-## Chapter 2
-## Chapter 3
+# [Part 1](./part-01.md)
+## [Chapter 1](./chapter-01.md)
+## [Chapter 2](./chapter-02.md)
+## [Chapter 3](./chapter-03.md)
 # Part 2
 ## Chapter 4
 ## Chapter 5
